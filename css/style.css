@@ -560,6 +560,16 @@ a.color1:hover {
   height: auto;
 }
 
+.cir-img-parent {
+  width: 200px;
+}
+
+#cir-img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 #home {
   background-color: #343A5C;
   color: white !important;
